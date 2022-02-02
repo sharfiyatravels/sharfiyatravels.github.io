@@ -1,0 +1,7 @@
+.service-row{
+    display: flex;
+    flex-direction: row;
+}
+.container{
+    text-align: center;
+}
