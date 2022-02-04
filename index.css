@@ -25,3 +25,7 @@ body::-webkit-scrollbar{
 .servicesDiv::-webkit-scrollbar{
     visibility: hidden;
 }
+.btnImg{
+    width: 35px;
+    margin-right: 3px;
+}

@@ -231,7 +231,7 @@
 
 @media only screen and (min-width: 770px){
 
-  /* For mobile phones: */
+  /* For Desktop: */
   body {
     font-family: sans-serif;
     background-color: #fff;
@@ -260,7 +260,7 @@
     border-radius: 100px;
     transition: all 0.2s;
     position: relative;
-    width: 130px;
+    width: 190px;
     height: 45px;
     text-align: center;
     margin: auto;
