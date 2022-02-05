@@ -1,3 +1,3 @@
 document.getElementById('titleImg').addEventListener("click",(e)=>{
-    location.href="/index.html"
+    location.href="/sharfiya-travels"
 })
