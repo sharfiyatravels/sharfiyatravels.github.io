@@ -8,7 +8,7 @@
 }
 .navBar{
     /* background: #fff; */
-    width: 100%;
+    width: 97%;
     height: 50px;
     justify-content: space-around;
     vertical-align: middle;
@@ -25,7 +25,52 @@ body::-webkit-scrollbar{
 .servicesDiv::-webkit-scrollbar{
     visibility: hidden;
 }
+body::-webkit-scrollbar-track{
+    visibility: hidden;
+}
+body::-webkit-scrollbar-track-piece{
+    visibility: hidden;
+}
 .btnImg{
     width: 35px;
     margin-right: 3px;
+}
+.mainPath{
+    padding: 35px;
+}
+.subPath{
+    background: #81d4fa;
+    text-align: start;
+    padding-left: 20px;
+    line-height: 35px;
+    color: #fff;
+    border-radius: 7px;
+}
+.subPath a{
+    color: #fff;
+    text-decoration: none;
+}
+footer{
+    background-color: #81d4fa;
+    height: 100px;
+    margin-top: 50px;
+    padding: 20px;
+    display: flex;
+}
+.footerDetails{
+    text-align: center;
+    width: 100%;
+    text-align: center;
+}
+.footer-element{
+    margin: 10px 0;
+    color: #fff;
+}
+.footer-element a{
+    color: #fff;
+    text-decoration: none;
+    transition: 0.455s;
+}
+.footer-element a:hover{
+    color: #59c8f9;
 }
