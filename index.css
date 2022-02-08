@@ -1,76 +1,81 @@
-.service-row{
+.service-row {
     display: flex;
     flex-direction: row;
 }
-.container{
+
+.container {
     text-align: center;
     margin-top: 50px;
 }
-.navBar{
+
+.navBar {
     /* background: #fff; */
-    width: 97%;
+    width: 90%;
     height: 50px;
     justify-content: space-around;
     vertical-align: middle;
     padding: 10px;
 }
+
 /* .subTitle{
     margin-top: 100px;
 } */
 
 
-body::-webkit-scrollbar{
+body::-webkit-scrollbar {
     visibility: hidden;
 }
-.servicesDiv::-webkit-scrollbar{
+
+.servicesDiv::-webkit-scrollbar {
     visibility: hidden;
 }
-body::-webkit-scrollbar-track{
+
+body::-webkit-scrollbar-track {
     visibility: hidden;
 }
-body::-webkit-scrollbar-track-piece{
+
+body::-webkit-scrollbar-track-piece {
     visibility: hidden;
 }
-.btnImg{
+
+.btnImg {
     width: 35px;
     margin-right: 3px;
 }
-.mainPath{
-    padding: 35px;
+
+.subPath a:hover {
+    color: #59c8f9;
 }
-.subPath{
-    background: #81d4fa;
-    text-align: start;
-    padding-left: 20px;
-    line-height: 35px;
-    color: #fff;
-    border-radius: 7px;
+
+.subPath a {
+    transition: 0.455s;
 }
-.subPath a{
-    color: #fff;
-    text-decoration: none;
-}
-footer{
+
+footer {
     background-color: #81d4fa;
     height: 100px;
     margin-top: 50px;
     padding: 20px;
     display: flex;
 }
-.footerDetails{
+
+.footerDetails {
     text-align: center;
     width: 100%;
     text-align: center;
 }
-.footer-element{
+
+.footer-element {
     margin: 10px 0;
     color: #fff;
 }
-.footer-element a{
+
+.footer-element a {
     color: #fff;
     text-decoration: none;
     transition: 0.455s;
 }
-.footer-element a:hover{
+
+.footer-element a:hover {
     color: #59c8f9;
 }

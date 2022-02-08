@@ -1,4 +1,4 @@
-@media only screen and (max-width: 425px){
+@media only screen and (max-width: 425px) {
 
   /* For small mobile phones: */
   body {
@@ -13,7 +13,7 @@
     margin-top: 45px;
   }
 
-  .titleImg{
+  .titleImg {
     width: 320px;
   }
 
@@ -32,6 +32,7 @@
     width: 70%;
     height: 45px;
     text-align: center;
+    justify-content: space-between;
     margin: auto;
   }
 
@@ -113,9 +114,28 @@
     flex-direction: column;
   }
 
+  .mainPath {
+    padding: 10px;
+    padding-top: 35px;
+  }
+
+  .subPath {
+    background: #81d4fa;
+    text-align: start;
+    padding-left: 20px;
+    line-height: 35px;
+    color: #fff;
+    border-radius: 7px;
+  }
+
+  .subPath a {
+    color: #fff;
+    text-decoration: none;
+  }
+
 }
 
-@media only screen and (min-width: 426px)/* and (max-width:768) */{
+@media only screen and (min-width: 426px) {
 
   /* For Tablets: */
   body {
@@ -129,7 +149,7 @@
     margin-top: 45px;
   }
 
-  .titleImg{
+  .titleImg {
     width: 320px;
   }
 
@@ -231,9 +251,27 @@
     flex-wrap: wrap;
   }
 
+  .mainPath {
+    padding: 35px;
+  }
+
+  .subPath {
+    background: #81d4fa;
+    text-align: start;
+    padding-left: 20px;
+    line-height: 35px;
+    color: #fff;
+    border-radius: 7px;
+  }
+
+  .subPath a {
+    color: #fff;
+    text-decoration: none;
+  }
+
 }
 
-@media only screen and (min-width: 530px)/* and (max-width:768) */{
+@media only screen and (min-width: 530px) {
 
   /* For lg-Tablets: */
   body {
@@ -247,7 +285,7 @@
     margin-top: 45px;
   }
 
-  .titleImg{
+  .titleImg {
     width: 320px;
   }
 
@@ -349,9 +387,27 @@
     flex-wrap: wrap;
   }
 
+  .mainPath {
+    padding: 35px;
+  }
+
+  .subPath {
+    background: #81d4fa;
+    text-align: start;
+    padding-left: 20px;
+    line-height: 35px;
+    color: #fff;
+    border-radius: 7px;
+  }
+
+  .subPath a {
+    color: #fff;
+    text-decoration: none;
+  }
+
 }
 
-@media only screen and (min-width: 770px){
+@media only screen and (min-width: 770px) {
 
   /* For Desktop: */
   body {
@@ -366,7 +422,7 @@
     margin-top: 45px;
   }
 
-  .titleImg{
+  .titleImg {
     width: 320px;
   }
 
@@ -470,8 +526,26 @@
   }
 
 
-footer img{
-  width: 100px;
-}
+  footer img {
+    width: 100px;
+  }
+
+  .mainPath {
+    padding: 35px;
+  }
+
+  .subPath {
+    background: #81d4fa;
+    text-align: start;
+    padding-left: 20px;
+    line-height: 35px;
+    color: #fff;
+    border-radius: 7px;
+  }
+
+  .subPath a {
+    color: #fff;
+    text-decoration: none;
+  }
 
 }
