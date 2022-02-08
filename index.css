@@ -8,7 +8,7 @@
 }
 .navBar{
     /* background: #fff; */
-    width: 97%;
+    width: 90%;
     height: 50px;
     justify-content: space-around;
     vertical-align: middle;
@@ -35,21 +35,7 @@ body::-webkit-scrollbar-track-piece{
     width: 35px;
     margin-right: 3px;
 }
-.mainPath{
-    padding: 35px;
-}
-.subPath{
-    background: #81d4fa;
-    text-align: start;
-    padding-left: 20px;
-    line-height: 35px;
-    color: #fff;
-    border-radius: 7px;
-}
-.subPath a{
-    color: #fff;
-    text-decoration: none;
-}
+
 footer{
     background-color: #81d4fa;
     height: 100px;
