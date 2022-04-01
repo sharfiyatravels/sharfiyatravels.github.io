@@ -117,6 +117,10 @@ footer {
     display: flex;
 }
 
+footer.contactFooter{
+    margin-top: 10px;
+}
+
 .footerDetails {
     text-align: center;
     width: 100%;
