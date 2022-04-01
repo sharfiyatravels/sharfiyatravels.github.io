@@ -491,6 +491,10 @@
     opacity: 0;
   }
 
+  .contactDetails .leftSection{
+    width: 40%;
+  }
+
   .btn-animated {
     -webkit-animation: moveInBottom 5s ease-out;
     animation: moveInBottom 5s ease-out;
