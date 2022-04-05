@@ -24,8 +24,7 @@
   }
 
   .text-box {
-    margin-left: 50px;
-    margin-top: 45px;
+    margin: 15px;
   }
 
   .titleImg {
@@ -44,7 +43,7 @@
     border-radius: 100px;
     transition: all 0.2s;
     position: relative;
-    width: 270px;
+    width: 240px;
     height: 45px;
     text-align: center;
     margin: auto;
@@ -124,6 +123,7 @@
   }
 
   .servicesDiv {
+    justify-content: center;
     display: flex;
     flex-direction: row;
     overflow-wrap: break-word;
@@ -191,8 +191,7 @@
   }
 
   .text-box {
-    margin-left: 50px;
-    margin-top: 45px;
+    margin: 15px;
   }
 
   .titleImg {
@@ -291,6 +290,7 @@
   }
 
   .servicesDiv {
+    justify-content: center;
     display: flex;
     flex-direction: row;
     overflow-wrap: break-word;
@@ -343,8 +343,7 @@
   }
 
   .text-box {
-    margin-left: 50px;
-    margin-top: 45px;
+    margin: 15px;
   }
 
   .titleImg {
@@ -363,7 +362,7 @@
     border-radius: 100px;
     transition: all 0.2s;
     position: relative;
-    width: 270px;
+    width: 285px;
     height: 45px;
     text-align: center;
     margin: auto;
@@ -443,6 +442,7 @@
   }
 
   .servicesDiv {
+    justify-content: center;
     display: flex;
     flex-direction: row;
     overflow-wrap: break-word;
@@ -495,8 +495,7 @@
   }
 
   .text-box {
-    margin-left: 50px;
-    margin-top: 45px;
+    margin: 15px;
   }
 
   .titleImg {
@@ -515,7 +514,7 @@
     border-radius: 100px;
     transition: all 0.2s;
     position: relative;
-    width: 115px;
+    width: 119px;
     height: 45px;
     text-align: center;
     margin: auto;
@@ -595,6 +594,7 @@
   }
 
   .servicesDiv {
+    justify-content: center;
     display: flex;
     flex-direction: row;
     overflow-wrap: break-word;
@@ -643,9 +643,8 @@
   }
 
   .text-box {
-    margin-left: 45px;
+    margin: 15px;
     align-items: flex-end;
-    margin-top: 45px;
   }
 
   .titleImg {
@@ -664,7 +663,7 @@
     border-radius: 100px;
     transition: all 0.2s;
     position: relative;
-    width: 190px;
+    width: 120px;
     height: 45px;
     text-align: center;
     margin: auto;
@@ -754,6 +753,7 @@
   }
 
   .servicesDiv {
+    justify-content: center;
     display: flex;
     flex-direction: row;
     overflow-wrap: break-word;
@@ -806,9 +806,8 @@
   }
 
   .text-box {
-    margin-left: 45px;
+    margin: 15px;
     align-items: flex-end;
-    margin-top: 45px;
   }
 
   .titleImg {
@@ -827,7 +826,7 @@
     border-radius: 100px;
     transition: all 0.2s;
     position: relative;
-    width: 190px;
+    width: 124px;
     height: 45px;
     text-align: center;
     margin: auto;
@@ -917,6 +916,7 @@
   }
 
   .servicesDiv {
+    justify-content: center;
     display: flex;
     flex-direction: row;
     overflow-wrap: break-word;
@@ -969,9 +969,8 @@
   }
 
   .text-box {
-    margin-left: 45px;
+    margin: 15px;
     align-items: flex-end;
-    margin-top: 45px;
   }
 
   .titleImg {
@@ -990,7 +989,7 @@
     border-radius: 100px;
     transition: all 0.2s;
     position: relative;
-    width: 190px;
+    width: 158px;
     height: 45px;
     text-align: center;
     margin: auto;
@@ -1080,6 +1079,7 @@
   }
 
   .servicesDiv {
+    justify-content: center;
     display: flex;
     flex-direction: row;
     overflow-wrap: break-word;
