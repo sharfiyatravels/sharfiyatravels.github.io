@@ -22,7 +22,7 @@ body{
 
 .contactDetails .rightSection{
     padding: 20px;
-    background: white;
+    background: #fff;
     box-shadow: 0 0 10px 2px #b4b4b4;
     border-radius: 7px;
     height: 300px;
@@ -148,4 +148,24 @@ footer.contactFooter{
 
 .footer-element a:hover {
     color: #59c8f9;
+}
+
+.container .documentsDetails{
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px 2px #b4b4b4;
+    border-radius: 7px;
+}
+
+.documentsHeading h3{
+    color: #0bb0fc/* #e87938; */
+}
+.documentsDetails{
+    justify-content: center;
+}
+
+.documentsDetails ul{
+    text-align: left;
+    line-height: 30px;
+    color: #0bb0fc;
 }
